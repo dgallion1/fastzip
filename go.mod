@@ -3,7 +3,6 @@ module github.com/dgallion1/fastzip
 go 1.17
 
 require (
-	github.com/dgallion1/fastZip/internal/filepool v0.0.0-00010101000000-000000000000
 	github.com/klauspost/compress v1.13.5
 	github.com/saracen/zipextra v0.0.0-20201205103923-7347a2ee3f10
 	github.com/stretchr/testify v1.7.0
