@@ -14,7 +14,7 @@ import (
 	"sync/atomic"
 
 	"github.com/dgallion1/fastZip/internal/filepool"
-	"github.com/klauspost/compress/zip"
+	zip "github.com/klauspost/compress/zstd"
 	"golang.org/x/sync/errgroup"
 )
 
