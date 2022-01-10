@@ -1,4 +1,4 @@
-module github.com/saracen/fastzip
+module github.com/dgallion1/fastzip
 
 go 1.13
 
